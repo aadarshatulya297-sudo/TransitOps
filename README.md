@@ -47,28 +47,6 @@ A modern Smart Transport Operations Platform designed to help organizations mana
 
 ---
 
-## 📂 Project Structure
-
-```text
-TransitOps/
-│
-├── public/
-├── src/
-│   ├── app/
-│   ├── components/
-│   ├── lib/
-│   └── ...
-│
-├── package.json
-├── next.config.ts
-├── tsconfig.json
-└── README.md
-```
-
-*Note: Update the project structure to match your actual repository.*
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone Repository
